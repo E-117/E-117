@@ -1,5 +1,13 @@
-### Hi there 👋
+### 
+hey there stranger, welcome to my profile! :D
 
+I'm studying web development, cybersecurity and programming.       
+Currently completing picoCTF challenges.  
+
+If you'd like to say hello, you can find me here:      
+Eda#9238 [Discord]
+
+All the best, Eda.
 <!--
 **E-117/E-117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
