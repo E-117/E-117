@@ -1,4 +1,6 @@
 ### 
+السلام عليكم ورحمة الله وبركاته
+
 hey there stranger, welcome to my profile! :D
 
 I'm studying web development, cybersecurity and programming.       
