@@ -1,9 +1,9 @@
 ### hey there stranger
 السلام عليكم ورحمة الله وبركاته
 
-I'm Enkelejda, although I go by the name Eda almost everywhere.
-I'm studying web development, cybersecurity and programming.       
-Currently completing picoCTF challenges and having lots of fun building basic but fun projects.
+I'm Enkelejda, although I go by the name Eda almost everywhere.          
+I'm studying web development, cybersecurity and programming.                      
+Currently completing picoCTF challenges and having lots of fun building basic but fun projects.         
 
 If you'd like to say hello, you can find me here:      
 Eda#9238 [Discord]
