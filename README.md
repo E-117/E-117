@@ -4,6 +4,7 @@
 I'm Enkelejda, although I go by the name Eda almost everywhere.          
 I'm studying web development, cybersecurity and programming.                      
 Currently completing picoCTF challenges and having lots of fun building basic but fun projects.         
+Residing in the UK
 
 If you'd like to say hello, you can find me here:      
 Eda#9238 [Discord]
