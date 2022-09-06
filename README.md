@@ -1,15 +1,14 @@
-### Hello
+### hey there stranger
 السلام عليكم ورحمة الله وبركاته
 
-hey there stranger, welcome to my profile! :D
-
+I'm Enkelejda, although I go by the name Eda almost everywhere.
 I'm studying web development, cybersecurity and programming.       
-Currently completing picoCTF challenges.  
+Currently completing picoCTF challenges and having lots of fun building basic but fun projects.
 
 If you'd like to say hello, you can find me here:      
 Eda#9238 [Discord]
 
-All the best, Eda.
+All the best. :D
 <!--
 **E-117/E-117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
