@@ -7,7 +7,7 @@ Currently completing picoCTF challenges and having lots of fun building basic bu
 Residing in the UK
 
 If you'd like to say hello, you can find me here:      
-Edaa#4111 [Discord]
+Eda#5887 [Discord]
 
 All the best. :D
 <!--
