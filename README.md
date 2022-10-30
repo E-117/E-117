@@ -1,6 +1,6 @@
 ### Greetings!
 السلام عليكم ورحمة الله وبركاته
-   
+My name is Eda                             
 I'm a student but most importantly a tech enthusiast.       
 Learning more and more everyday about cybersecurity, web development and programming.                 
 In my free time I like to read and solve Math problems. (super nerdy I know)                                         
