@@ -1,15 +1,17 @@
-### hey there stranger
+### Greetings!
 السلام عليكم ورحمة الله وبركاته
-
-I'm Enkelejda, although I go by the name Eda almost everywhere.          
-I'm studying web development, cybersecurity and programming.                      
-Currently completing picoCTF challenges and having lots of fun building basic but fun projects.         
+   
+I'm a student but most importantly a tech enthusiast.       
+Learning more and more everyday about cybersecurity, web development and programming.                 
+In my free time I like to read and solve Math problems. (super nerdy I know)                                         
+Currently completing picoCTF challenges, overthewire.org wargames, cryptohack courses and having lots of fun building basic but fun projects. Check them out! 😃                                      
 Residing in the UK
 
 If you'd like to say hello, you can find me here:      
-Eda#5887 [Discord]
-
-All the best. :D
+Eda#7520 [Discord] 
+I'd love to hear from you.                     
+All the best,                                                     
+Eda
 <!--
 **E-117/E-117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
