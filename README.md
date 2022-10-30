@@ -4,11 +4,11 @@
 I'm a student but most importantly a tech enthusiast.       
 Learning more and more everyday about cybersecurity, web development and programming.                 
 In my free time I like to read and solve Math problems. (super nerdy I know)                                         
-Currently completing picoCTF challenges, overthewire.org wargames, cryptohack courses and having lots of fun building basic but fun projects. Check them out! 😃                                      
+Currently completing picoCTF challenges, overthewire.org wargames, cryptohack courses and having lots of fun building basic but fun projects. Check them out! :D                                                    
 Residing in the UK
 
 If you'd like to say hello, you can find me here:      
-Eda#7520 [Discord] 
+Eda#7520 [Discord]                                                 
 I'd love to hear from you.                     
 All the best,                                                     
 Eda
