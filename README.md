@@ -10,7 +10,8 @@ In my free time I like to read and solve Math problems. (super nerdy I know).
        
 
 If you'd like to say hello, find me here:      
-Eda#7520 [Discord]                                                 
+Eda#7520 [Discord]  
+itsEdaSpeaking@hotmail.com [E-Mail]
 I'd love to hear from you.                                                
 <!--
 **E-117/E-117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
