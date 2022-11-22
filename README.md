@@ -5,7 +5,7 @@
 My name is Eda                                                                        
 I'm a student but most importantly a tech enthusiast.       
 Learning more and more everyday about cybersecurity, web development and programming.                                                       
-Currently completing picoCTF challenges, overthewire.org wargames, cryptohack courses and having lots of fun building projects. Check them out! :D                                                                                 
+Currently completing picoCTF challenges, overthewire.org wargames, cryptohack courses and I'm really enjoying building lots of easy but fun projects. Check them out! :D                                                                                 
 In my free time I like to read and solve Math problems (super nerdy I know). I can also cross-stitch!                                                      
        
 
